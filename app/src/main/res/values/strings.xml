@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Book Reader</string>
+    <string name="book_hasEBook">E-book:</string>
+    <string name="book_hasAudioBook">Audio book:</string>
+    <string name="book_PlayEBook">Play E-book</string>
+    <string name="book_PlayAudioBook">Play Audio book</string>
+    <string name="isTrue">True</string>
+    <string name="isFalse">False</string>
+    <string name="title">Title</string>
+    <string name="eBookPath">E-book path:</string>
+    <string name="audioBookPath">Audio book path:</string>
+    <string name="select">SELECT</string>
+    <string name="addBook">ADD BOOK</string>
+
+    <string name="english">English</string>
+    <string name="hungarian">Hungarian</string>
+
+    <string name="language_header">Language</string>
+    <string name="sync_header">Sync</string>
+
+    <string name="select_language">Select language</string>
+    <string name="enable_delete">Enable delete</string>
+    <string name="permission_to_read">We need permission to read external storage</string>
 </resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Könyv olvasó</string>
+    <string name="book_hasEBook">E-könyv:</string>
+    <string name="book_hasAudioBook">Hangoskönyv:</string>
+    <string name="book_PlayEBook">E-könyv lejátszása</string>
+    <string name="book_PlayAudioBook">Hangoskönyv lejátszása</string>
+    <string name="isTrue">Igaz</string>
+    <string name="isFalse">Hamis</string>
+    <string name="title">Cím</string>
+    <string name="eBookPath">E-könyv elérése:</string>
+    <string name="audioBookPath">Hangoskönyv elérése:</string>
+    <string name="select">KIVÁLASZT</string>
+    <string name="addBook">KÖNYV HOZZÁADÁSA</string>
+
+    <string name="english">Angol</string>
+    <string name="hungarian">Magyar</string>
+
+    <string name="language_header">Nyelv</string>
+    <string name="sync_header">Szinkronizáció</string>
+
+    <string name="select_language">Válasszon nyelvet</string>
+    <string name="enable_delete">Törlés engedélyezése</string>
+    <string name="permission_to_read">Szükségünk van engedélyre a külső tárhely olvasásához</string>
+</resources>
